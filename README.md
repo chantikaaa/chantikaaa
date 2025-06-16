@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Cinta!
 
-<!--
-**chantikaaa/chantikaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 6th-semester Information Systems student from Atma Jaya Yogyakarta University.I'm passionate about data processing, engineering, visualization, machine learning, and business metrics. I love turning raw data into actionable insights and continuously improving my skills in tech and analysis.
 
-Here are some ideas to get you started:
+## 🔍 What I'm Learning and Passionate About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Data Analysis & Data Cleaning  
+- 🧠 Statistical Modelling and Insight Generation  
+- 🗃️ Database Management & SQL Scripting  
+- 🧪 Experimentation with Python & R for Data Science  
+- 📈 Dashboarding & Storytelling with Tableau  
+
+## 💻 Tech Stack
+
+- **Languages**: C, SQL, Python, R, Javascript  
+- **Tools**: Tableau, Excel, Jupyter Notebook
+- **Databases**: MySQL, PostgreSQL
+- **Others**: Git, Google Colab, Ms. Office, Figma
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cinta-chantika/)
+- 📬 [Email](cintachantika13@gmail.com)
+
+---
