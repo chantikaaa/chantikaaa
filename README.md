@@ -14,7 +14,7 @@
 
 - **Languages**: C, SQL, Python, R, Javascript  
 - **Tools**: Tableau, Excel, Jupyter Notebook
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL, PostgreSQL, Vercel/NeonDB
 - **Others**: Git, Google Colab, Ms. Office, Figma
 
 ## 📫 Let's Connect
