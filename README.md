@@ -4,7 +4,7 @@
 
 ## 🔍 What I'm Learning and Passionate About
 
-- 📊 Data Analysis & Data Cleaning  
+- 📊 Data Analysis & Data Science  
 - 🧠 Statistical Modelling and Insight Generation  
 - 🗃️ Database Management & SQL Scripting  
 - 🧪 Experimentation with Python & R for Data Science  
