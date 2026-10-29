@@ -20,6 +20,7 @@
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cinta-chantika/)
+- 💻 [Web Portfolio](https://chantikaaa.framer.website/)
 - 📬 [Email](cintachantika13@gmail.com)
 
 ---
